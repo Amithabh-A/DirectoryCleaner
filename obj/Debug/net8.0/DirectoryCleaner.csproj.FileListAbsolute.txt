@@ -1,0 +1,14 @@
+/Users/amithabh_a/Projects/DirectoryCleaner/bin/Debug/net8.0/DirectoryCleaner
+/Users/amithabh_a/Projects/DirectoryCleaner/bin/Debug/net8.0/DirectoryCleaner.deps.json
+/Users/amithabh_a/Projects/DirectoryCleaner/bin/Debug/net8.0/DirectoryCleaner.runtimeconfig.json
+/Users/amithabh_a/Projects/DirectoryCleaner/bin/Debug/net8.0/DirectoryCleaner.dll
+/Users/amithabh_a/Projects/DirectoryCleaner/bin/Debug/net8.0/DirectoryCleaner.pdb
+/Users/amithabh_a/Projects/DirectoryCleaner/obj/Debug/net8.0/DirectoryCleaner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amithabh_a/Projects/DirectoryCleaner/obj/Debug/net8.0/DirectoryCleaner.AssemblyInfoInputs.cache
+/Users/amithabh_a/Projects/DirectoryCleaner/obj/Debug/net8.0/DirectoryCleaner.AssemblyInfo.cs
+/Users/amithabh_a/Projects/DirectoryCleaner/obj/Debug/net8.0/DirectoryCleaner.csproj.CoreCompileInputs.cache
+/Users/amithabh_a/Projects/DirectoryCleaner/obj/Debug/net8.0/DirectoryCleaner.dll
+/Users/amithabh_a/Projects/DirectoryCleaner/obj/Debug/net8.0/refint/DirectoryCleaner.dll
+/Users/amithabh_a/Projects/DirectoryCleaner/obj/Debug/net8.0/DirectoryCleaner.pdb
+/Users/amithabh_a/Projects/DirectoryCleaner/obj/Debug/net8.0/DirectoryCleaner.genruntimeconfig.cache
+/Users/amithabh_a/Projects/DirectoryCleaner/obj/Debug/net8.0/ref/DirectoryCleaner.dll
